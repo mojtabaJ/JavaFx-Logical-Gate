@@ -1,9 +1,9 @@
-## Logical-Gate-
+## Logical Gate Simulator
 Logical Gate JavaFx
 
 * This is a application that helps the circuit designer to test the working of their circuit.
 
-## Logical Gates
+## Logical Gates 
 1. AND.
 2. OR.
 3. NAND.

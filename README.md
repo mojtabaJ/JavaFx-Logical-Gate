@@ -15,3 +15,7 @@ Logical Gate JavaFx
 ## Features
 1. Circuit Testing.
 2. Simple Drag and Drop interface.
+
+![Image 1](http://uupload.ir/files/er3x_logical_gate_1.png)
+![Image 2](http://uupload.ir/files/m83e_logical_gate_2.png)
+![Image 3](http://uupload.ir/files/9lhq_logical_gate_3.png)

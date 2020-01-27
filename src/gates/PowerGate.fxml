@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="80.0" prefWidth="80.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.gate.GateControllerPower">
+   <children>
+      <ImageView fx:id="outputConnector" fitHeight="10.0" fitWidth="22.0" layoutX="63.0" layoutY="36.0" pickOnBounds="true" preserveRatio="true" rotate="90.0" style="-fx-cursor: hand;" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="32.0" AnchorPane.rightAnchor="0.0">
+         <image>
+            <Image url="@../icons/connector.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="powerSource" fitHeight="80.0" fitWidth="80.0" layoutX="12.0" layoutY="17.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@../icons/panel/power.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

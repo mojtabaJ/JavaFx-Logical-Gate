@@ -28,7 +28,7 @@ public class Main extends Application {
         primaryStage.setMinWidth(1000);
         try {
             Parent root = FXMLLoader.load(this.getClass().getResource("Main.fxml"));
-            primaryStage.setTitle("Logical Gate");
+            primaryStage.setTitle("Logical Gate ");
             primaryStage.setScene(new Scene(root,1000,700));
             primaryStage.show();
         } catch(IOException ioe) {
